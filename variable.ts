@@ -16,4 +16,4 @@ let myName:string=undefined;
  
  
 let list1:number[]=[1,2,3];
-let person1:[string,number]=['muskan',22];
+let persn1:[string,number]=['muskan',22];
