@@ -2,4 +2,6 @@ enum colors {red,green,blue};
 let c:colors=colors.green;
 console.log(c);
  
-// enum colors {red=5,green,blue};
+enum color {red=5,green,blue};
+let d:color=color.red;
+console.log(d)
